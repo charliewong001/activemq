@@ -52,7 +52,7 @@
             </configuration>
         </plugin>
      </plugins>
-     <finalName>httpsTest</finalName>
+     <finalName>activemq</finalName>
      <resources>
          <resource>
              <targetPath>${project.build.directory}/classes</targetPath>
